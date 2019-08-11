@@ -1,0 +1,1 @@
+INSERT INTO staging_raw_data VALUES (%s, %s)
